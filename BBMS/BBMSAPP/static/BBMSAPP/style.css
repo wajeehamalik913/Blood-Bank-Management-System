@@ -1,0 +1,21 @@
+.register-header {
+    background-color: #424642;
+    color: whitesmoke;
+}
+.signup-btn {
+    background-color: #424642;
+    color: whitesmoke;
+}
+
+.register-header:hover {
+    background-color: antiquewhite;
+    color: #424642;
+}
+.signup-btn:hover {
+    background-color: antiquewhite;
+    color: #424642;
+}
+
+.m-top {
+  margin-top: 2rem !important;
+}
